@@ -1,0 +1,318 @@
+timestamp,lat,lon,temp_c,precip_mm,wind_m_s,source,station_id
+2025-11-22 23:22:55.523302,6.33706,-75.50346,,152.146,,siata, Colegio Presbitero Bernardo Montoya 
+2025-11-22 23:22:55.523302,6.375,-75.45,,164.338,,siata, Colegio Jose Manuel Sierra
+2025-11-22 23:22:55.523302,6.335,-75.56,,171.45,,siata, Edificio Gaspar de Rodas - Bello
+2025-11-22 23:22:55.523302,,,,164.084,,siata, Institucion Educativa Rural El Tambo
+2025-11-22 23:22:55.523302,,,,147.066,,siata, Indural Km6 Medellin-Bogota
+2025-11-22 23:22:55.523302,,,,209.042,,siata, Santa Rosa de Osos - Pluviometro
+2025-11-22 23:22:55.523302,,,,197.358,,siata, Salon Social Barbosa
+2025-11-22 23:22:55.523302,,,,155.448,,siata, Jose Miguel de Restrepo
+2025-11-22 23:22:55.523302,,,,164.846,,siata, I.E Las Lomitas
+2025-11-22 23:22:55.523302,,,,169.672,,siata, E.R Jamundi - Pluviometro
+2025-11-22 23:22:55.523302,,,,203.2,,siata, Vereda Potrerito - Pluviometro
+2025-11-22 23:22:55.523302,,,,146.304,,siata, Villa Nueva Sede La Luz
+2025-11-22 23:22:55.523302,,,,132.588,,siata, I.E. Fontidueno
+2025-11-22 23:22:55.523302,,,,161.544,,siata, Ancon 2 - Pluviometro
+2025-11-22 23:22:55.523302,,,,149.098,,siata, I.E San Andres (Sede El Socorro)
+2025-11-22 23:22:55.523302,,,,183.896,,siata, Universidad EIA - Envigado - Pluviometro
+2025-11-22 23:22:55.523302,,,,125.222,,siata, Liceo Fernando Velez
+2025-11-22 23:22:55.523302,,,,133.858,,siata, I.E Inem Jose Felix de Restrepo Sede Santa Catalina 
+2025-11-22 23:22:55.523302,,,,163.576,,siata, Escuela Luis Javier Garcia Isaza
+2025-11-22 23:22:55.523302,,,,140.716,,siata, Villa Niza - Pluviometro
+2025-11-22 23:22:55.523302,,,,438.658,,siata, Santa Rita Guatape - Pluviometro
+2025-11-22 23:22:55.523302,,,,123.19,,siata, I.E Ciro Mendia
+2025-11-22 23:22:55.523302,,,,154.432,,siata, I.E Santa Elena
+2025-11-22 23:22:55.523302,,,,100.076,,siata, Edificio Camacol - Pluviometro
+2025-11-22 23:22:55.523302,,,,194.31,,siata, I.E Manuel Jose Caicedo - Pluviometro
+2025-11-22 23:22:55.523302,,,,136.144,,siata, CUIDA Juan Cojo
+2025-11-22 23:22:55.523302,,,,138.684,,siata, I.E Hector Rogelio Montoya
+2025-11-22 23:22:55.523302,,,,125.984,,siata, Villa del Socorro - Pluviometro
+2025-11-22 23:22:55.523302,,,,165.862,,siata, Carpinelo Amapolita - Pluviometro
+2025-11-22 23:22:55.523302,,,,175.006,,siata, Fuente Clara - Pluviometro
+2025-11-22 23:22:55.523302,,,,118.364,,siata, Colegio Latino (Av. Las Palmas)
+2025-11-22 23:22:55.523302,,,,149.606,,siata, Institucion Educativa La Candelaria - Pluviometro
+2025-11-22 23:22:55.523302,,,,124.206,,siata, I.E Pedro Nel
+2025-11-22 23:22:55.523302,,,,115.316,,siata, Universidad CES (Sabaneta)
+2025-11-22 23:22:55.523302,,,,147.32,,siata, Escuela CEDEPRO
+2025-11-22 23:22:55.523302,,,,138.684,,siata, I.E Barrio Paris
+2025-11-22 23:22:55.523302,,,,129.794,,siata, Represa La Garcia 
+2025-11-22 23:22:55.523302,,,,151.892,,siata, Escuela Rural El Plan
+2025-11-22 23:22:55.523302,,,,114.808,,siata, Escuela Republica de Cuba
+2025-11-22 23:22:55.523302,,,,119.38,,siata, Tecnologico Antioquia
+2025-11-22 23:22:55.523302,,,,125.73,,siata, Colegio Eduardo Santos
+2025-11-22 23:22:55.523302,,,,179.07,,siata, Escuela la Clara
+2025-11-22 23:22:55.523302,,,,165.608,,siata, Himalaya - Pluviometro
+2025-11-22 23:22:55.523302,,,,127.0,,siata, I.E La Doctora
+2025-11-22 23:22:55.523302,,,,169.418,,siata, San Jose de Las Vegas - Pluviometro
+2025-11-22 23:22:55.523302,,,,179.832,,siata, I.E. Manuel Jose Sierra - Sede la Holanda
+2025-11-22 23:22:55.523302,,,,128.27,,siata, Colegio San Lucas 
+2025-11-22 23:22:55.523302,,,,106.68,,siata, Centro de Desarrollo Infantil Pequenos Exploradores
+2025-11-22 23:22:55.523302,,,,125.222,,siata, AMVA
+2025-11-22 23:22:55.523302,,,,133.858,,siata, Manuel Mejia Vallejo - Pluviometro
+2025-11-22 23:22:55.523302,,,,136.398,,siata, Gimnasio Cantabria
+2025-11-22 23:22:55.523302,,,,111.76,,siata, Escuela El Corazon 
+2025-11-22 23:22:55.523302,,,,132.334,,siata, Feria de Ganado - Pluviometro
+2025-11-22 23:22:55.523302,,,,140.716,,siata, Club del Adulto Mayor - Sabaneta
+2025-11-22 23:22:55.523302,,,,111.252,,siata, Bomberos Guayabal
+2025-11-22 23:22:55.523302,,,,122.174,,siata, I.E Juan Maria Cespedes
+2025-11-22 23:22:55.523302,,,,130.556,,siata, Paradero Jalisco San Felix - Pluviometro
+2025-11-22 23:22:55.523302,,,,133.35,,siata, Escuela El Salado
+2025-11-22 23:22:55.523302,,,,113.792,,siata, I.E Reino de Belgica
+2025-11-22 23:22:55.523302,,,,126.492,,siata, Centro Veterinario y de Zootecnia CES
+2025-11-22 23:22:55.523302,,,,108.458,,siata, Escuela La Capilla del Rosario 
+2025-11-22 23:22:55.523302,,,,103.124,,siata, Instituto Pedro Justo Berrio
+2025-11-22 23:22:55.523302,,,,118.872,,siata, Escuela Rural Santa Angela
+2025-11-22 23:22:55.523302,,,,344.17,,siata, Samana - Pluviometro
+2025-11-22 23:22:55.523302,,,,114.046,,siata, IE Jesus Maria Valle
+2025-11-22 23:22:55.523302,,,,109.728,,siata, Liceo Salazar y Herrera
+2025-11-22 23:22:55.523302,,,,109.474,,siata, Escuela Rural Fabio Zuluaga
+2025-11-22 23:22:55.523302,,,,106.426,,siata, I.E La Milagrosa 
+2025-11-22 23:22:55.523302,,,,135.382,,siata, Laguna Quitasol - Pluviometro
+2025-11-22 23:22:55.523302,,,,129.286,,siata, Vivero EPM Piedras Blancas - Pluviometro
+2025-11-22 23:22:55.523302,,,,136.144,,siata, Colegio Canadiense - Pluviometro
+2025-11-22 23:22:55.523302,,,,114.808,,siata, Comisaria El Poblado
+2025-11-22 23:22:55.523302,,,,143.51,,siata, Pueblo Viejo - Pluviometro
+2025-11-22 23:22:55.523302,,,,102.6,,siata, Escuela Rural Piedras Gordas
+2025-11-22 23:22:55.523302,,,,133.6,,siata, Salinas Caldas - Pluviometro
+2025-11-22 23:22:55.523302,,,,153.924,,siata, Acueducto Hatillo - Pluviometro
+2025-11-22 23:22:55.523302,,,,138.938,,siata, Megacolegio - Pluviometro
+2025-11-22 23:22:55.523302,,,,121.92,,siata, Heliodora - Pluviometro
+2025-11-22 23:22:55.523302,,,,104.14,,siata, I.E Concejo de Medellin
+2025-11-22 23:22:55.523302,,,,93.98,,siata, I.E Villa Turbay
+2025-11-22 23:22:55.523302,,,,120.396,,siata, Perfilador de Vientos - Pluviometro
+2025-11-22 23:22:55.523302,,,,98.265,,siata, I.E Joaquin Vallejo Arbelaez 
+2025-11-22 23:22:55.523302,,,,120.65,,siata, Ecoparque La Romera
+2025-11-22 23:22:55.523302,,,,100.584,,siata, I.E Ramon Munera Lopera
+2025-11-22 23:22:55.523302,,,,115.57,,siata, Ecoparque El Salado - Pluviometro
+2025-11-22 23:22:55.523302,,,,119.634,,siata, Escuela Rural San Jose de la Montana
+2025-11-22 23:22:55.523302,,,,129.286,,siata, Planta de Agua Bocatoma
+2025-11-22 23:22:55.523302,,,,99.822,,siata, Museo de Antioquia - Pluviometro
+2025-11-22 23:22:55.523302,,,,104.648,,siata, I.E Republica de Uruguay
+2025-11-22 23:22:55.523302,,,,112.014,,siata, Deprimido San Juan Con Av Ferrocarril - Pluviometro
+2025-11-22 23:22:55.523302,,,,107.696,,siata, Colegio Concejo de Itagui
+2025-11-22 23:22:55.523302,,,,95.758,,siata, Fundacion Hogares Claret
+2025-11-22 23:22:55.523302,,,,108.966,,siata, CC Viva Envigado - Pluviometro
+2025-11-22 23:22:55.523302,,,,96.796,,siata, CEFA
+2025-11-22 23:22:55.523302,,,,124.46,,siata, Salada Parte Alta - Pluviometro
+2025-11-22 23:22:55.523302,,,,100.584,,siata, I.E Pedro Octavio Amado
+2025-11-22 23:22:55.523302,,,,110.744,,siata, Escuela Rural El Boqueron
+2025-11-22 23:22:55.523302,,,,135.636,,siata, Deslizamiento La Raya - Pluviometro
+2025-11-22 23:22:55.523302,6.259,-75.591,,86.36,,siata, Torre SIATA
+2025-11-22 23:22:55.523302,,,,103.886,,siata, Casa de Gobierno Altavista
+2025-11-22 23:22:55.523302,,,,115.57,,siata, Seminario Redemptoris - Pluviometro
+2025-11-22 23:22:55.523302,,,,109.982,,siata, Deprimido Terminal del Norte - Pluviometro
+2025-11-22 23:22:55.523302,,,,94.6,,siata, La Ladera
+2025-11-22 23:22:55.523302,,,,120.396,,siata, Escuela Rural Yarumalito
+2025-11-22 23:22:55.523302,,,,85.598,,siata, Colegio Divino Salvador
+2025-11-22 23:22:55.523302,,,,100.0,,siata, Escuela Marina Orth
+2025-11-22 23:22:55.523302,,,,97.79,,siata, Miraflores
+2025-11-22 23:22:55.523302,,,,119.634,,siata, Sonson - Pluviometro
+2025-11-22 23:22:55.523302,,,,121.666,,siata, Escombrera Mocatan - Pluviometro
+2025-11-22 23:22:55.523302,,,,100.838,,siata, Sede Social Picacho Las Vegas
+2025-11-22 23:22:55.523302,,,,115.316,,siata, Colegio Waldorf - Pluviometro
+2025-11-22 23:22:55.523302,,,,114.554,,siata, Andalucia Caldas - Pluviometro
+2025-11-22 23:22:55.523302,,,,101.854,,siata, Parque 3 Aguas - Pluviometro
+2025-11-22 23:22:55.523302,,,,99.822,,siata, La Harenala Santa Maria - Pluviometro
+2025-11-22 23:22:55.523302,,,,112.522,,siata, Escuela Rural Quebrada Larga
+2025-11-22 23:22:55.523302,,,,92.71,,siata, Palmitas Potrera - Pluviometro
+2025-11-22 23:22:55.523302,,,,80.4,,siata, Instituto Jorge Robledo
+2025-11-22 23:22:55.523302,,,,124.46,,siata, Alcaldia La Estrella - Pluviometro
+2025-11-22 23:22:55.523302,,,,87.63,,siata, Bomberos Envigado - Pluviometro
+2025-11-22 23:22:55.523302,,,,79.2,,siata, Escuela Rural La Verde
+2025-11-22 23:22:55.523302,,,,99.06,,siata, Montanita San Antonio - Pluviometro
+2025-11-22 23:22:55.523302,,,,51.054,,siata, Escuela El Triunfo 
+2025-11-22 23:22:55.523302,,,,52.578,,siata, Santa Maria Goretti
+2025-11-22 23:22:55.523302,,,,45.974,,siata, Q. La Sanin - Pluviometro
+2025-11-22 00:00:00.000000,6.2442,-75.5812,17.59,0.0,1.75,meteoblue,Medellín (Meteoblue)
+2025-11-22 01:00:00.000000,6.2442,-75.5812,17.33,0.0,1.36,meteoblue,Medellín (Meteoblue)
+2025-11-22 02:00:00.000000,6.2442,-75.5812,17.06,0.0,1.28,meteoblue,Medellín (Meteoblue)
+2025-11-22 03:00:00.000000,6.2442,-75.5812,16.89,0.0,1.34,meteoblue,Medellín (Meteoblue)
+2025-11-22 04:00:00.000000,6.2442,-75.5812,16.5,0.0,1.28,meteoblue,Medellín (Meteoblue)
+2025-11-22 05:00:00.000000,6.2442,-75.5812,15.9,0.0,1.42,meteoblue,Medellín (Meteoblue)
+2025-11-22 06:00:00.000000,6.2442,-75.5812,15.0,0.0,1.51,meteoblue,Medellín (Meteoblue)
+2025-11-22 07:00:00.000000,6.2442,-75.5812,17.33,0.0,1.52,meteoblue,Medellín (Meteoblue)
+2025-11-22 08:00:00.000000,6.2442,-75.5812,19.67,0.0,1.58,meteoblue,Medellín (Meteoblue)
+2025-11-22 09:00:00.000000,6.2442,-75.5812,22.0,0.0,1.81,meteoblue,Medellín (Meteoblue)
+2025-11-22 10:00:00.000000,6.2442,-75.5812,23.67,0.0,1.88,meteoblue,Medellín (Meteoblue)
+2025-11-22 11:00:00.000000,6.2442,-75.5812,25.33,0.0,1.68,meteoblue,Medellín (Meteoblue)
+2025-11-22 12:00:00.000000,6.2442,-75.5812,26.33,0.0,1.78,meteoblue,Medellín (Meteoblue)
+2025-11-22 13:00:00.000000,6.2442,-75.5812,27.33,0.0,1.92,meteoblue,Medellín (Meteoblue)
+2025-11-22 14:00:00.000000,6.2442,-75.5812,28.0,0.0,1.7,meteoblue,Medellín (Meteoblue)
+2025-11-22 15:00:00.000000,6.2442,-75.5812,27.67,0.0,1.59,meteoblue,Medellín (Meteoblue)
+2025-11-22 16:00:00.000000,6.2442,-75.5812,27.0,0.0,1.55,meteoblue,Medellín (Meteoblue)
+2025-11-22 17:00:00.000000,6.2442,-75.5812,26.0,0.0,1.66,meteoblue,Medellín (Meteoblue)
+2025-11-22 18:00:00.000000,6.2442,-75.5812,25.0,0.0,1.63,meteoblue,Medellín (Meteoblue)
+2025-11-22 19:00:00.000000,6.2442,-75.5812,23.41,0.0,1.47,meteoblue,Medellín (Meteoblue)
+2025-11-22 20:00:00.000000,6.2442,-75.5812,22.27,0.0,1.26,meteoblue,Medellín (Meteoblue)
+2025-11-22 21:00:00.000000,6.2442,-75.5812,21.55,0.0,1.12,meteoblue,Medellín (Meteoblue)
+2025-11-22 22:00:00.000000,6.2442,-75.5812,20.9,0.0,1.01,meteoblue,Medellín (Meteoblue)
+2025-11-22 23:00:00.000000,6.2442,-75.5812,20.2,0.0,1.55,meteoblue,Medellín (Meteoblue)
+2025-11-23 00:00:00.000000,6.2442,-75.5812,19.59,0.0,1.66,meteoblue,Medellín (Meteoblue)
+2025-11-23 01:00:00.000000,6.2442,-75.5812,19.19,0.0,1.51,meteoblue,Medellín (Meteoblue)
+2025-11-23 02:00:00.000000,6.2442,-75.5812,18.66,0.0,1.2,meteoblue,Medellín (Meteoblue)
+2025-11-23 03:00:00.000000,6.2442,-75.5812,18.13,0.0,1.15,meteoblue,Medellín (Meteoblue)
+2025-11-23 04:00:00.000000,6.2442,-75.5812,17.91,0.0,1.12,meteoblue,Medellín (Meteoblue)
+2025-11-23 05:00:00.000000,6.2442,-75.5812,17.98,0.0,0.94,meteoblue,Medellín (Meteoblue)
+2025-11-23 06:00:00.000000,6.2442,-75.5812,18.33,0.0,1.01,meteoblue,Medellín (Meteoblue)
+2025-11-23 07:00:00.000000,6.2442,-75.5812,19.2,0.0,1.14,meteoblue,Medellín (Meteoblue)
+2025-11-23 08:00:00.000000,6.2442,-75.5812,20.45,0.0,1.21,meteoblue,Medellín (Meteoblue)
+2025-11-23 09:00:00.000000,6.2442,-75.5812,22.28,0.0,1.31,meteoblue,Medellín (Meteoblue)
+2025-11-23 10:00:00.000000,6.2442,-75.5812,23.62,0.0,1.33,meteoblue,Medellín (Meteoblue)
+2025-11-23 11:00:00.000000,6.2442,-75.5812,24.79,0.0,1.39,meteoblue,Medellín (Meteoblue)
+2025-11-23 12:00:00.000000,6.2442,-75.5812,25.59,0.0,1.62,meteoblue,Medellín (Meteoblue)
+2025-11-23 13:00:00.000000,6.2442,-75.5812,25.69,0.0,1.82,meteoblue,Medellín (Meteoblue)
+2025-11-23 14:00:00.000000,6.2442,-75.5812,25.09,0.0,1.66,meteoblue,Medellín (Meteoblue)
+2025-11-23 15:00:00.000000,6.2442,-75.5812,23.98,0.0,1.39,meteoblue,Medellín (Meteoblue)
+2025-11-23 16:00:00.000000,6.2442,-75.5812,22.92,0.0,1.24,meteoblue,Medellín (Meteoblue)
+2025-11-23 17:00:00.000000,6.2442,-75.5812,22.02,0.0,1.23,meteoblue,Medellín (Meteoblue)
+2025-11-23 18:00:00.000000,6.2442,-75.5812,21.29,0.0,1.42,meteoblue,Medellín (Meteoblue)
+2025-11-23 19:00:00.000000,6.2442,-75.5812,20.48,0.0,1.44,meteoblue,Medellín (Meteoblue)
+2025-11-23 20:00:00.000000,6.2442,-75.5812,19.9,0.0,1.28,meteoblue,Medellín (Meteoblue)
+2025-11-23 21:00:00.000000,6.2442,-75.5812,19.47,0.0,1.09,meteoblue,Medellín (Meteoblue)
+2025-11-23 22:00:00.000000,6.2442,-75.5812,18.94,0.0,0.98,meteoblue,Medellín (Meteoblue)
+2025-11-23 23:00:00.000000,6.2442,-75.5812,18.32,0.0,1.24,meteoblue,Medellín (Meteoblue)
+2025-11-24 00:00:00.000000,6.2442,-75.5812,17.84,0.0,1.19,meteoblue,Medellín (Meteoblue)
+2025-11-24 01:00:00.000000,6.2442,-75.5812,17.71,0.0,1.28,meteoblue,Medellín (Meteoblue)
+2025-11-24 02:00:00.000000,6.2442,-75.5812,17.51,0.0,1.05,meteoblue,Medellín (Meteoblue)
+2025-11-24 03:00:00.000000,6.2442,-75.5812,17.37,0.0,0.94,meteoblue,Medellín (Meteoblue)
+2025-11-24 04:00:00.000000,6.2442,-75.5812,17.45,0.0,0.87,meteoblue,Medellín (Meteoblue)
+2025-11-24 05:00:00.000000,6.2442,-75.5812,17.71,0.0,0.7,meteoblue,Medellín (Meteoblue)
+2025-11-24 06:00:00.000000,6.2442,-75.5812,18.03,0.0,0.79,meteoblue,Medellín (Meteoblue)
+2025-11-24 07:00:00.000000,6.2442,-75.5812,18.97,0.0,0.87,meteoblue,Medellín (Meteoblue)
+2025-11-24 08:00:00.000000,6.2442,-75.5812,20.42,0.0,1.0,meteoblue,Medellín (Meteoblue)
+2025-11-24 09:00:00.000000,6.2442,-75.5812,22.3,0.0,1.12,meteoblue,Medellín (Meteoblue)
+2025-11-24 10:00:00.000000,6.2442,-75.5812,23.9,0.0,1.27,meteoblue,Medellín (Meteoblue)
+2025-11-24 11:00:00.000000,6.2442,-75.5812,25.36,0.0,1.41,meteoblue,Medellín (Meteoblue)
+2025-11-24 12:00:00.000000,6.2442,-75.5812,26.48,0.0,1.66,meteoblue,Medellín (Meteoblue)
+2025-11-24 13:00:00.000000,6.2442,-75.5812,26.72,0.0,1.77,meteoblue,Medellín (Meteoblue)
+2025-11-24 14:00:00.000000,6.2442,-75.5812,26.03,0.3,1.73,meteoblue,Medellín (Meteoblue)
+2025-11-24 15:00:00.000000,6.2442,-75.5812,24.63,0.2,1.54,meteoblue,Medellín (Meteoblue)
+2025-11-24 16:00:00.000000,6.2442,-75.5812,23.32,0.0,1.44,meteoblue,Medellín (Meteoblue)
+2025-11-24 17:00:00.000000,6.2442,-75.5812,22.32,0.0,1.45,meteoblue,Medellín (Meteoblue)
+2025-11-24 18:00:00.000000,6.2442,-75.5812,21.37,0.0,1.49,meteoblue,Medellín (Meteoblue)
+2025-11-24 19:00:00.000000,6.2442,-75.5812,20.41,0.0,1.69,meteoblue,Medellín (Meteoblue)
+2025-11-24 20:00:00.000000,6.2442,-75.5812,19.71,0.0,1.77,meteoblue,Medellín (Meteoblue)
+2025-11-24 21:00:00.000000,6.2442,-75.5812,19.35,0.0,1.72,meteoblue,Medellín (Meteoblue)
+2025-11-24 22:00:00.000000,6.2442,-75.5812,18.92,0.0,1.66,meteoblue,Medellín (Meteoblue)
+2025-11-24 23:00:00.000000,6.2442,-75.5812,18.37,0.0,1.26,meteoblue,Medellín (Meteoblue)
+2025-11-25 00:00:00.000000,6.2442,-75.5812,17.92,0.8,1.26,meteoblue,Medellín (Meteoblue)
+2025-11-25 01:00:00.000000,6.2442,-75.5812,17.8,0.0,1.42,meteoblue,Medellín (Meteoblue)
+2025-11-25 02:00:00.000000,6.2442,-75.5812,17.6,0.2,1.13,meteoblue,Medellín (Meteoblue)
+2025-11-25 03:00:00.000000,6.2442,-75.5812,17.43,1.6,1.15,meteoblue,Medellín (Meteoblue)
+2025-11-25 04:00:00.000000,6.2442,-75.5812,17.45,1.2,1.15,meteoblue,Medellín (Meteoblue)
+2025-11-25 05:00:00.000000,6.2442,-75.5812,17.68,0.0,1.03,meteoblue,Medellín (Meteoblue)
+2025-11-25 06:00:00.000000,6.2442,-75.5812,18.09,0.0,0.98,meteoblue,Medellín (Meteoblue)
+2025-11-25 07:00:00.000000,6.2442,-75.5812,18.98,0.0,0.99,meteoblue,Medellín (Meteoblue)
+2025-11-25 08:00:00.000000,6.2442,-75.5812,20.34,0.0,1.08,meteoblue,Medellín (Meteoblue)
+2025-11-25 09:00:00.000000,6.2442,-75.5812,21.97,0.3,1.11,meteoblue,Medellín (Meteoblue)
+2025-11-25 10:00:00.000000,6.2442,-75.5812,23.5,0.5,1.25,meteoblue,Medellín (Meteoblue)
+2025-11-25 11:00:00.000000,6.2442,-75.5812,24.89,0.0,1.48,meteoblue,Medellín (Meteoblue)
+2025-11-25 12:00:00.000000,6.2442,-75.5812,26.01,0.0,1.67,meteoblue,Medellín (Meteoblue)
+2025-11-25 13:00:00.000000,6.2442,-75.5812,26.32,0.0,1.69,meteoblue,Medellín (Meteoblue)
+2025-11-25 14:00:00.000000,6.2442,-75.5812,25.85,0.0,1.54,meteoblue,Medellín (Meteoblue)
+2025-11-25 15:00:00.000000,6.2442,-75.5812,24.74,0.5,1.48,meteoblue,Medellín (Meteoblue)
+2025-11-25 16:00:00.000000,6.2442,-75.5812,23.61,0.8,1.44,meteoblue,Medellín (Meteoblue)
+2025-11-25 17:00:00.000000,6.2442,-75.5812,22.58,0.6,1.43,meteoblue,Medellín (Meteoblue)
+2025-11-25 18:00:00.000000,6.2442,-75.5812,21.18,0.7,1.47,meteoblue,Medellín (Meteoblue)
+2025-11-25 19:00:00.000000,6.2442,-75.5812,19.78,0.7,1.65,meteoblue,Medellín (Meteoblue)
+2025-11-25 20:00:00.000000,6.2442,-75.5812,18.72,0.9,1.75,meteoblue,Medellín (Meteoblue)
+2025-11-25 21:00:00.000000,6.2442,-75.5812,18.36,0.6,1.77,meteoblue,Medellín (Meteoblue)
+2025-11-25 22:00:00.000000,6.2442,-75.5812,18.1,0.5,1.79,meteoblue,Medellín (Meteoblue)
+2025-11-25 23:00:00.000000,6.2442,-75.5812,17.76,0.2,1.79,meteoblue,Medellín (Meteoblue)
+2025-11-26 00:00:00.000000,6.2442,-75.5812,17.5,0.0,1.66,meteoblue,Medellín (Meteoblue)
+2025-11-26 01:00:00.000000,6.2442,-75.5812,17.39,0.0,1.75,meteoblue,Medellín (Meteoblue)
+2025-11-26 02:00:00.000000,6.2442,-75.5812,17.25,0.0,1.59,meteoblue,Medellín (Meteoblue)
+2025-11-26 03:00:00.000000,6.2442,-75.5812,17.17,0.0,1.56,meteoblue,Medellín (Meteoblue)
+2025-11-26 04:00:00.000000,6.2442,-75.5812,17.3,0.0,1.49,meteoblue,Medellín (Meteoblue)
+2025-11-26 05:00:00.000000,6.2442,-75.5812,17.67,0.0,1.21,meteoblue,Medellín (Meteoblue)
+2025-11-26 06:00:00.000000,6.2442,-75.5812,18.14,0.0,1.21,meteoblue,Medellín (Meteoblue)
+2025-11-26 07:00:00.000000,6.2442,-75.5812,19.06,0.0,1.2,meteoblue,Medellín (Meteoblue)
+2025-11-26 08:00:00.000000,6.2442,-75.5812,20.48,0.0,1.33,meteoblue,Medellín (Meteoblue)
+2025-11-26 09:00:00.000000,6.2442,-75.5812,22.29,0.0,1.47,meteoblue,Medellín (Meteoblue)
+2025-11-26 10:00:00.000000,6.2442,-75.5812,24.12,0.0,1.49,meteoblue,Medellín (Meteoblue)
+2025-11-26 11:00:00.000000,6.2442,-75.5812,25.75,0.0,1.47,meteoblue,Medellín (Meteoblue)
+2025-11-26 12:00:00.000000,6.2442,-75.5812,27.04,0.0,1.52,meteoblue,Medellín (Meteoblue)
+2025-11-26 13:00:00.000000,6.2442,-75.5812,27.42,0.0,1.75,meteoblue,Medellín (Meteoblue)
+2025-11-26 14:00:00.000000,6.2442,-75.5812,26.96,0.0,1.78,meteoblue,Medellín (Meteoblue)
+2025-11-26 15:00:00.000000,6.2442,-75.5812,25.87,0.0,1.91,meteoblue,Medellín (Meteoblue)
+2025-11-26 16:00:00.000000,6.2442,-75.5812,24.69,0.0,2.0,meteoblue,Medellín (Meteoblue)
+2025-11-26 17:00:00.000000,6.2442,-75.5812,23.53,0.0,2.02,meteoblue,Medellín (Meteoblue)
+2025-11-26 18:00:00.000000,6.2442,-75.5812,22.0,0.0,1.87,meteoblue,Medellín (Meteoblue)
+2025-11-26 19:00:00.000000,6.2442,-75.5812,20.42,0.0,1.76,meteoblue,Medellín (Meteoblue)
+2025-11-26 20:00:00.000000,6.2442,-75.5812,19.14,0.0,1.56,meteoblue,Medellín (Meteoblue)
+2025-11-26 21:00:00.000000,6.2442,-75.5812,18.52,0.0,1.42,meteoblue,Medellín (Meteoblue)
+2025-11-26 22:00:00.000000,6.2442,-75.5812,18.1,0.0,1.27,meteoblue,Medellín (Meteoblue)
+2025-11-26 23:00:00.000000,6.2442,-75.5812,17.75,0.0,1.54,meteoblue,Medellín (Meteoblue)
+2025-11-27 00:00:00.000000,6.2442,-75.5812,17.58,0.3,1.38,meteoblue,Medellín (Meteoblue)
+2025-11-27 01:00:00.000000,6.2442,-75.5812,17.53,0.3,1.42,meteoblue,Medellín (Meteoblue)
+2025-11-27 02:00:00.000000,6.2442,-75.5812,17.42,0.3,1.18,meteoblue,Medellín (Meteoblue)
+2025-11-27 03:00:00.000000,6.2442,-75.5812,17.34,0.3,1.16,meteoblue,Medellín (Meteoblue)
+2025-11-27 04:00:00.000000,6.2442,-75.5812,17.39,0.0,1.08,meteoblue,Medellín (Meteoblue)
+2025-11-27 05:00:00.000000,6.2442,-75.5812,17.67,0.0,0.75,meteoblue,Medellín (Meteoblue)
+2025-11-27 06:00:00.000000,6.2442,-75.5812,17.95,0.0,0.87,meteoblue,Medellín (Meteoblue)
+2025-11-27 07:00:00.000000,6.2442,-75.5812,18.88,0.0,0.97,meteoblue,Medellín (Meteoblue)
+2025-11-27 08:00:00.000000,6.2442,-75.5812,20.23,0.0,1.29,meteoblue,Medellín (Meteoblue)
+2025-11-27 09:00:00.000000,6.2442,-75.5812,22.12,0.0,1.7,meteoblue,Medellín (Meteoblue)
+2025-11-27 10:00:00.000000,6.2442,-75.5812,23.87,0.2,1.9,meteoblue,Medellín (Meteoblue)
+2025-11-27 11:00:00.000000,6.2442,-75.5812,25.43,1.0,1.85,meteoblue,Medellín (Meteoblue)
+2025-11-27 12:00:00.000000,6.2442,-75.5812,26.61,0.4,1.72,meteoblue,Medellín (Meteoblue)
+2025-11-27 13:00:00.000000,6.2442,-75.5812,26.94,0.4,1.66,meteoblue,Medellín (Meteoblue)
+2025-11-27 14:00:00.000000,6.2442,-75.5812,26.44,0.4,1.57,meteoblue,Medellín (Meteoblue)
+2025-11-27 15:00:00.000000,6.2442,-75.5812,25.32,0.4,1.58,meteoblue,Medellín (Meteoblue)
+2025-11-27 16:00:00.000000,6.2442,-75.5812,24.07,0.3,1.64,meteoblue,Medellín (Meteoblue)
+2025-11-27 17:00:00.000000,6.2442,-75.5812,22.85,0.3,1.67,meteoblue,Medellín (Meteoblue)
+2025-11-27 18:00:00.000000,6.2442,-75.5812,21.24,0.5,1.54,meteoblue,Medellín (Meteoblue)
+2025-11-27 19:00:00.000000,6.2442,-75.5812,19.73,0.7,1.43,meteoblue,Medellín (Meteoblue)
+2025-11-27 20:00:00.000000,6.2442,-75.5812,18.56,1.0,1.37,meteoblue,Medellín (Meteoblue)
+2025-11-27 21:00:00.000000,6.2442,-75.5812,18.07,0.7,1.3,meteoblue,Medellín (Meteoblue)
+2025-11-27 22:00:00.000000,6.2442,-75.5812,17.72,0.5,1.28,meteoblue,Medellín (Meteoblue)
+2025-11-27 23:00:00.000000,6.2442,-75.5812,17.42,0.0,1.06,meteoblue,Medellín (Meteoblue)
+2025-11-28 00:00:00.000000,6.2442,-75.5812,17.31,0.0,1.04,meteoblue,Medellín (Meteoblue)
+2025-11-28 01:00:00.000000,6.2442,-75.5812,17.35,0.0,1.25,meteoblue,Medellín (Meteoblue)
+2025-11-28 02:00:00.000000,6.2442,-75.5812,17.32,0.0,1.29,meteoblue,Medellín (Meteoblue)
+2025-11-28 03:00:00.000000,6.2442,-75.5812,17.24,0.0,1.26,meteoblue,Medellín (Meteoblue)
+2025-11-28 04:00:00.000000,6.2442,-75.5812,17.18,0.0,1.21,meteoblue,Medellín (Meteoblue)
+2025-11-28 05:00:00.000000,6.2442,-75.5812,17.53,0.0,1.15,meteoblue,Medellín (Meteoblue)
+2025-11-28 06:00:00.000000,6.2442,-75.5812,17.79,0.0,1.19,meteoblue,Medellín (Meteoblue)
+2025-11-28 07:00:00.000000,6.2442,-75.5812,18.71,0.0,1.21,meteoblue,Medellín (Meteoblue)
+2025-11-28 08:00:00.000000,6.2442,-75.5812,19.64,0.0,1.49,meteoblue,Medellín (Meteoblue)
+2025-11-28 09:00:00.000000,6.2442,-75.5812,21.0,0.0,1.61,meteoblue,Medellín (Meteoblue)
+2025-11-28 10:00:00.000000,6.2442,-75.5812,22.28,0.0,1.69,meteoblue,Medellín (Meteoblue)
+2025-11-28 11:00:00.000000,6.2442,-75.5812,23.58,0.0,1.81,meteoblue,Medellín (Meteoblue)
+2025-11-28 12:00:00.000000,6.2442,-75.5812,24.83,0.0,1.87,meteoblue,Medellín (Meteoblue)
+2025-11-28 13:00:00.000000,6.2442,-75.5812,25.33,0.0,1.99,meteoblue,Medellín (Meteoblue)
+2025-11-28 14:00:00.000000,6.2442,-75.5812,25.12,0.0,2.03,meteoblue,Medellín (Meteoblue)
+2025-11-28 15:00:00.000000,6.2442,-75.5812,24.23,0.2,2.03,meteoblue,Medellín (Meteoblue)
+2025-11-28 16:00:00.000000,6.2442,-75.5812,23.26,0.3,1.99,meteoblue,Medellín (Meteoblue)
+2025-11-28 17:00:00.000000,6.2442,-75.5812,22.22,0.2,1.8,meteoblue,Medellín (Meteoblue)
+2025-11-28 18:00:00.000000,6.2442,-75.5812,20.68,0.0,1.55,meteoblue,Medellín (Meteoblue)
+2025-11-28 19:00:00.000000,6.2442,-75.5812,18.54,0.0,1.39,meteoblue,Medellín (Meteoblue)
+2025-11-28 20:00:00.000000,6.2442,-75.5812,18.01,0.0,1.27,meteoblue,Medellín (Meteoblue)
+2025-11-28 21:00:00.000000,6.2442,-75.5812,17.63,0.0,1.07,meteoblue,Medellín (Meteoblue)
+2025-11-28 22:00:00.000000,6.2442,-75.5812,17.3,0.0,1.08,meteoblue,Medellín (Meteoblue)
+2025-11-28 23:00:00.000000,6.2442,-75.5812,17.06,0.0,0.99,meteoblue,Medellín (Meteoblue)
+2025-11-29 00:00:00.000000,6.2442,-75.5812,16.87,0.4,0.99,meteoblue,Medellín (Meteoblue)
+2025-11-22 23:00:00.000000,6.2442,-75.5812,18.8,0.0,0.4,meteosource,Medellín (Meteosource)
+2025-11-23 00:00:00.000000,6.2442,-75.5812,18.2,0.0,0.2,meteosource,Medellín (Meteosource)
+2025-11-23 01:00:00.000000,6.2442,-75.5812,18.0,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 02:00:00.000000,6.2442,-75.5812,17.5,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 03:00:00.000000,6.2442,-75.5812,17.2,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 04:00:00.000000,6.2442,-75.5812,17.0,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 05:00:00.000000,6.2442,-75.5812,16.5,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 06:00:00.000000,6.2442,-75.5812,16.2,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 07:00:00.000000,6.2442,-75.5812,17.2,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 08:00:00.000000,6.2442,-75.5812,19.0,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 09:00:00.000000,6.2442,-75.5812,21.5,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 10:00:00.000000,6.2442,-75.5812,23.8,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 11:00:00.000000,6.2442,-75.5812,25.2,0.0,0.4,meteosource,Medellín (Meteosource)
+2025-11-23 12:00:00.000000,6.2442,-75.5812,26.2,0.0,0.2,meteosource,Medellín (Meteosource)
+2025-11-23 13:00:00.000000,6.2442,-75.5812,25.8,0.8,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 14:00:00.000000,6.2442,-75.5812,24.0,2.1,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 15:00:00.000000,6.2442,-75.5812,23.2,0.9,0.2,meteosource,Medellín (Meteosource)
+2025-11-23 16:00:00.000000,6.2442,-75.5812,22.8,0.2,1.1,meteosource,Medellín (Meteosource)
+2025-11-23 17:00:00.000000,6.2442,-75.5812,22.2,0.3,1.2,meteosource,Medellín (Meteosource)
+2025-11-23 18:00:00.000000,6.2442,-75.5812,21.5,0.3,1.2,meteosource,Medellín (Meteosource)
+2025-11-23 19:00:00.000000,6.2442,-75.5812,20.8,0.3,0.8,meteosource,Medellín (Meteosource)
+2025-11-23 20:00:00.000000,6.2442,-75.5812,20.0,0.2,0.5,meteosource,Medellín (Meteosource)
+2025-11-23 21:00:00.000000,6.2442,-75.5812,19.8,0.0,0.0,meteosource,Medellín (Meteosource)
+2025-11-23 22:00:00.000000,6.2442,-75.5812,19.2,0.0,0.0,meteosource,Medellín (Meteosource)

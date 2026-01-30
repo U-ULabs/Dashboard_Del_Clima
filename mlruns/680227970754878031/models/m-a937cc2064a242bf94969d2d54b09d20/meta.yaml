@@ -1,0 +1,10 @@
+artifact_location: file:///home/kali/project_export/mlruns/680227970754878031/models/m-a937cc2064a242bf94969d2d54b09d20/artifacts
+creation_timestamp: 1763872159219
+experiment_id: '680227970754878031'
+last_updated_timestamp: 1763872164373
+model_id: m-a937cc2064a242bf94969d2d54b09d20
+model_type: null
+name: model
+source_run_id: 41cfbacc2b964ce48d0af96fc5e4a587
+status: 2
+status_message: null

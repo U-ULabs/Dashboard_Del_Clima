@@ -1,0 +1,10 @@
+artifact_location: file:///home/kali/project_export/mlruns/722878968246887091/models/m-cc91846d67274b398cd8d40de7157404/artifacts
+creation_timestamp: 1763873800071
+experiment_id: '722878968246887091'
+last_updated_timestamp: 1763873800259
+model_id: m-cc91846d67274b398cd8d40de7157404
+model_type: null
+name: informer_model
+source_run_id: 2ef2f9909b1e494fb666ac874b983803
+status: 3
+status_message: null

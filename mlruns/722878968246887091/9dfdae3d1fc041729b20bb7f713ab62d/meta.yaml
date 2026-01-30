@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kali/project_export/mlruns/722878968246887091/9dfdae3d1fc041729b20bb7f713ab62d/artifacts
+end_time: 1763873588807
+entry_point_name: ''
+experiment_id: '722878968246887091'
+lifecycle_stage: active
+run_id: 9dfdae3d1fc041729b20bb7f713ab62d
+run_name: informer_demo
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763873588787
+status: 4
+tags: []
+user_id: kali

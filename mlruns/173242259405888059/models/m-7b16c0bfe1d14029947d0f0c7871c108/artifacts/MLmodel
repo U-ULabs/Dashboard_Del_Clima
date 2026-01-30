@@ -1,0 +1,22 @@
+artifact_path: file:///home/kali/project_export/mlruns/173242259405888059/models/m-7b16c0bfe1d14029947d0f0c7871c108/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-7b16c0bfe1d14029947d0f0c7871c108
+model_size_bytes: 561
+model_uuid: m-7b16c0bfe1d14029947d0f0c7871c108
+prompts: null
+run_id: 9fbb881015af4d1f9ed046e959897603
+utc_time_created: '2025-11-23 04:23:44.506636'

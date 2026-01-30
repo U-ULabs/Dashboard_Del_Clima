@@ -1,0 +1,27 @@
+# Task List
+
+- [x] Clean Project Structure
+    - [x] Check for and remove `lib`, `lib64` in root
+    - [x] Check for and remove visible `venv` folder
+    - [x] Ensure `.venv` exists and is populated
+- [x] Clean Project Structure
+    - [x] Check for and remove `lib`, `lib64` in root
+    - [x] Check for and remove visible `venv` folder
+    - [x] Ensure `.venv` exists and is populated
+- [x] Reorganize Dashboard (`app.py`)
+    - [x] Implement Tabs: Metrics, Map, Data
+    - [x] Ensure Map is in its own tab
+- [x] Clean Project Structure
+    - [x] Check for and remove `lib`, `lib64` in root
+    - [x] Check for and remove visible `venv` folder
+    - [x] Ensure `.venv` exists and is populated
+- [x] Reorganize Dashboard (`app.py`)
+    - [x] Implement Tabs: Metrics, Map, Data
+    - [x] Ensure Map is in its own tab
+- [x] Implement Tests
+    - [x] Create `tests/` folder
+    - [x] Add `pytest` to requirements
+    - [x] Run tests successfully
+- [/] Verify and Run
+    - [/] Restart Streamlit
+    - [ ] Verify no unwanted folders are created

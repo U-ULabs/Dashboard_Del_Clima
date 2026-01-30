@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kali/project_export/mlruns/680227970754878031/6fa6c05175a6447ea757d42301d1c5fd/artifacts
+end_time: 1763874162120
+entry_point_name: ''
+experiment_id: '680227970754878031'
+lifecycle_stage: active
+run_id: 6fa6c05175a6447ea757d42301d1c5fd
+run_name: linear_regression_t+1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763874158856
+status: 3
+tags: []
+user_id: kali

@@ -1,0 +1,6 @@
+artifact_location: file:///home/kali/project_export/mlruns/173242259405888059
+creation_time: 1763871791216
+experiment_id: '173242259405888059'
+last_update_time: 1763871791216
+lifecycle_stage: active
+name: Temperature_Prediction_Model
